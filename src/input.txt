@@ -1,0 +1,63 @@
+Book
+Harry Potter and the Chamber of Secrets
+22.79
+4
+English
+Scholastic Inc.
+2021
+400
+Fiction
+JK Rowling
+Novel
+AudioCD
+Red (Taylor's version)
+60
+2
+English
+11/12/2021
+Folk
+false
+Taylor Swift
+2.2
+State of Grace (Taylor's version)#Red (Taylor's version)#Treacherous (Taylor's version)#I knew you were trouble (Taylor's version)#All Too Well (Taylor's version)#22 (Taylor's version)
+Newspaper
+The Guardian
+2
+2
+English
+Guardian News & Media
+2021
+20
+11/14/2021
+Why is Europe returning to the dark days of Covid?
+MovieDVD
+Titanic
+20
+5
+English
+01/15/1998
+Romance
+false
+3.23
+Leondaro Dicaprio#Kate Winslet#Billy Zane
+Audiobook
+The Alchemist
+12
+50
+Italian
+2005
+Adventure Fiction
+true
+Paulo Coelho
+4
+Novel
+Jeremy Irons
+Magazine
+Bon Appetit
+20
+1
+English
+Conde Nast
+2021
+40
+Food & Cooking
